@@ -18,12 +18,6 @@ I am a final year *Computer Science Student* and an upcoming **Business Analyst*
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </p>
 <br>
 
-## **📊 Github Stats**
-<a href="#">
-        <img width="80%" src="https://github-readme-stats.vercel.app/api?username=ishasinghal23"
-            alt="Isha's Github stats">
-    </a>
-
 ## 📫 Connect with me
 <p align="left">
 
